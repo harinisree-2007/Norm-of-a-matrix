@@ -58,7 +58,8 @@ print("{:.2f}".format(inf_matrix))
 ## Output:
 ### 1-Norm of a Matrix:
 
-<img width="1388" height="435" alt="image" src="https://github.com/user-attachments/assets/ec198836-66db-4e6b-b0e5-658911f6fde2" />
+
+<img width="1358" height="341" alt="image" src="https://github.com/user-attachments/assets/854d658b-0440-4dcd-9691-3715ba0dc2a7" />
 
 
 
